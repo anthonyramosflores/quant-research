@@ -95,5 +95,4 @@ simpler strategies first.
 
 This is proprietary research/trading with personal capital — not asset
 management, not a hedge fund, and not currently taking outside capital.
-Any claims made about this project (on a resume, LinkedIn, etc.) should
-only describe what's actually been built and tested here.
+
